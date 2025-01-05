@@ -1,0 +1,8 @@
+@article{REPO300,
+    author = "Chen, Zhiqin and Tagliasacchi, Andrea and Funkhouser, Thomas and Zhang, Hao",
+    journal = "Information Sciences",
+    pages = "120901",
+    title = "{Information gain-based multi-objective evolutionary algorithm for feature selection}",
+    volume = "599",
+    year = "2024"
+}
