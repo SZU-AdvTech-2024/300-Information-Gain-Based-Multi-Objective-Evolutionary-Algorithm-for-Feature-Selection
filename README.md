@@ -1,0 +1,3 @@
+代码需要在matlab下进行运行
+运行mHV_cal_for_csv 可以计算 相应数据集的HV
+运行 SO_PEER  可以用于计算MCE 以及所选特征数目与所占比例
